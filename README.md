@@ -1,38 +1,36 @@
-# Helix Keyboard
+# Helix
 
-A compact 34-key split ergonomic wireless keyboard designed for comfort and portability.
+My custom handcrafted 34-key split wireless keyboard.
 
 ![Finished Helix Keyboard](final.jpeg)
 
-## What's Helix?
+## About This Build
 
-Helix is a minimalist split keyboard that brings together wireless freedom and ergonomic comfort. With just 34 keys strategically placed across two halves, it reduces finger travel while maintaining full typing capability through layers.
+I designed and built Helix as my daily driver keyboard. It's a 34-key split layout running ZMK firmware on nice!nano controllers. Each half is wireless and hot-swappable.
 
-## Key Features
+This has been genuinely gamechanging for me. There's definitely a learning curve - it took me a couple weeks to get back to my regular typing speed - but I can't imagine going back to a regular keyboard now. The difference in hand comfort after long coding sessions is night and day.
 
-- **34-key layout** - Minimalist design with everything you need
-- **Split ergonomic design** - Natural hand positioning for reduced strain
-- **Fully wireless** - Powered by ZMK firmware for reliable wireless connectivity
-- **Hot-swappable switches** - Experiment with different switches without soldering
-- **nice!nano controllers** - Low-power Bluetooth microcontrollers for each half
+## Why 34 Keys Works
 
-## What's in This Repository
+The magic is in the layers. Every key is maximum one key away from any finger, so there's almost no hand movement. I can configure it any way I want - putting symbols, numbers, navigation, everything exactly where I need it. No reaching for arrow keys or number row anymore.
 
-This repository contains all the PCB design files you need to build your own Helix:
+At first, 34 keys seemed impossible. But with layers, I have more accessible keys than a regular keyboard, they're just not all visible at once. And since I configured every single key myself, the muscle memory built faster than I expected.
 
-- **KiCad project files** - Complete PCB design (`helix.kicad_pcb`, `helix.kicad_sch`, `helix.kicad_pro`)
-- **Custom footprints** - Specialized component footprints for the build
-- **Custom symbols** - Schematic symbols for all components
-- **3D models** - STEP files for PCB visualization and case design
+## What's Here
 
-## Firmware
+This repository has the PCB design files:
 
-Want to program your Helix? The ZMK firmware configuration is in the [zmk-helix](https://github.com/bgics/zmk-helix) repository.
+- **KiCad project files** - `helix.kicad_pcb`, `helix.kicad_sch`, `helix.kicad_pro`
+- **Custom footprints** - Component footprints I made for this build
+- **Custom symbols** - Schematic symbols
+- **3D models** - STEP files
 
-## PCB Preview
+The firmware configuration is in my [zmk-helix](https://github.com/bgics/zmk-helix) repository.
+
+## PCB Renders
 
 <details>
-<summary>Click to view PCB renders</summary>
+<summary>Click to view</summary>
 
 ### Front
 ![Helix PCB Front](helix-front.png)
