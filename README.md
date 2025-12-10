@@ -12,7 +12,7 @@ This has been genuinely gamechanging for me. There's definitely a learning curve
 
 ## Why 34 Keys Works
 
-The magic is in the layers. Every key is maximum one key away from any finger, so there's almost no hand movement. I can configure it any way I want - putting symbols, numbers, navigation, everything exactly where I need it. No reaching for arrow keys or number row anymore.
+The magic is in the layers. Every key is at most one key away from any finger, so there's almost no hand movement. I can configure it any way I want - putting symbols, numbers, navigation, everything exactly where I need it. No reaching for arrow keys or number row anymore.
 
 At first, 34 keys seemed impossible. But with layers, I have more accessible keys than a regular keyboard, they're just not all visible at once. And since I configured every single key myself, the muscle memory built faster than I expected.
 
